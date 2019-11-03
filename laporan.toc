@@ -1,0 +1,32 @@
+ \renewcommand *\cftchappresnum {\MakeUppercase {BAB}~}
+\babel@toc {bahasa}{}
+\contentsline {chapter}{ABSTRAK}{i}{section*.1}% 
+\contentsline {chapter}{KATA PENGANTAR}{ii}{section*.2}% 
+\contentsline {chapter}{DAFTAR ISI}{iii}{section*.3}% 
+\contentsline {chapter}{DAFTAR SIMBOL}{v}{section*.4}% 
+\contentsline {chapter}{DAFTAR GAMBAR}{vi}{section*.5}% 
+\contentsline {chapter}{DAFTAR TABEL}{vii}{section*.6}% 
+\contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Permasalahan}{1}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Tujuan Penelitian}{1}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}Ruang Lingkup Studi}{2}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}Sistematika Penulisan}{2}{section.1.5}% 
+\contentsline {chapter}{\numberline {2}LANDASAN TEORI}{3}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Tinjauan Pustaka}{3}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Android}{3}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Bank Sampah}{3}{subsection.2.1.2}% 
+\contentsline {chapter}{\numberline {3}ANALISIS DAN PERANCANGAN}{4}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Analisis}{4}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Analisis sistem yang sedang berjalan}{4}{subsection.3.1.1}% 
+\contentsline {section}{\numberline {3.2}Perancangan}{4}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Use Case Diagram}{4}{subsection.3.2.1}% 
+\contentsline {chapter}{\numberline {4}IMPLEMENTASI DAN PENGUJIAN}{5}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}KESIMPULAN DAN SARAN}{6}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Kesimpulan}{6}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Saran}{6}{section.5.2}% 
+\contentsline {chapter}{DAFTAR PUSTAKA}{7}{section*.8}% 
+\contentsline {chapter}{LAMPIRAN A: KODE PROGRAM}{8}{appendix*.9}% 
+\contentsline {section}{\numberline {A.1}PROGRAM}{8}{section.A.1}% 
+\contentsline {chapter}{LAMPIRAN B: GAMBAR-GAMBAR}{9}{appendix*.10}% 
+\contentsline {chapter}{LAMPIRAN C: TABEL-TABEL}{10}{appendix*.11}% 

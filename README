@@ -1,0 +1,95 @@
+UPDATE DARI VERSI SEBELUMNYA: Versi 1.7
+
+Template neA/nyekRipsi dengan LaTex. Versi 1.8.
+Release tanggal 24 Juli 2012. 
+Author: Cica Gustiani
+Sudah lolos pengawasan dari Bu Mazna.
+*************************************
+%Jika ada pertanyaan, saran, atau menemukan bug, hubungi saya: cica@students.tf.itb.ac.id
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  HAPPY NYEKRIPSI.......! :)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+TAMBAHAN DARI VERSI SEBELUMNYA (Versi 1.7) 
+
+** Pada (Versi 1.8) ini, ada penambahan berupa DAFTAR TABEL dan LAMPIRAN, serta koreksi untuk DAFTAR PUSTAKA
+
+FILE YANG DIUBAH
+a. preamble.tex (cukup banyak perubahan, ganti aja file nya )
+b. identitas.tex (ada penambahan keywords tiga baris paling bawah aja, biar pas di klik kanan, ada info dari file pdf-nya)
+c. daftarpustaka.tex (ganti file nya aja)
+*opsional
+  d. abstrak.tex (opsional, keywordnya otomatis aja, hehe)
+
+FILE YANG DITAMBAHKAN
+a. daftartabel.tex
+b. lampiran.tex
+
+*note: sebagai tambahan, di BAB 2 ada tambahan contoh membuat tabel.
+
+Terimakasih. :)
+
+
+****** README untuk Versi 1.7 ***********
+
+
+FILE-FILE TERDIRI DARI :
+------------------------
+a. Ini file-file yang GA PERLU DI EDIT :D
+   1. skripsi.tex (file utama, file induk)
+   2. preamble.tex (file yang menyimpan format-format, deklarasi package, definition, dll, yg ribet2)
+   3. sampul.tex
+   4. sampuldalam.tex
+   5. pengesahan.tex
+   6. daftarisi.tex
+   7. daftargambar.tex
+   8. daftarpustaka.tex  
+
+b. Kalo ini, file-file yang PERLU DI EDIT, yaaa isi nya :D
+   9.  identitas.tex 
+   10. abstrak.tex
+   11. katapengantar.tex
+   12. daftarsimbol.tex
+   13. bab1.tex 
+   14. bab2.tex 
+   15. bab3.tex 
+   16. bab4.tex 
+   17. bab5.tex 
+   18. bab6.tex  (opsional, boleh 5-6 bab)
+   19. pustaka.bib (daftar pustaka yang digunakan. kalo paper2 biasanya ada "download bibtex file", copas langsung ke sini.)    
+   20. database.hyphenate (daftar pemenggalan suku kata)
+c. Gambar-gambar di letakkan di folder gambar. Yang bisa terbaca banyak, yang gak paling .tiff, .gif ... disarankan pakai .eps, lebih alus :3    
+
+d. Beberapa contoh ada di BAB 2, teori dasar, silakan dibaca-baca. :D
+
+e. database.hyphenate, sayang sekali LaTex belum punya library untuk pemenggalan suku kata dalam bahasa Indonesia. Jika menemukan kata yang terpenggal secara tidak benar, bisa di tulis di sini.
+
+f. untuk compiling pertamakali, karena file .bbl belum digenerate, pakai cara COMPILING 2)
+
+g. Ini penting juga, kelupaan, duh. Kalau mau merefer Gambar 3.x, kata "Gambar" nya harus ditebali dan diawali oleh huruf kapital.
+
+COMPILING:
+----------
+1)
+              $ pdflatex skripsi
+
+2) kalo udah ngedit2 file pustaka.bib, perlu bantuan BibTex, jadinya 3x-4x compile:
+
+              $ pdflatex skripsi
+              $ bibtex skripsi   (ini nge-generate file pustaka yang terformat, "skripsi.bbl")
+              $ pdflatex skripsi 
+              $ pdflatex skripsi (link ctation nya suka ga muncul, compile sekali lagi) 
+       
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  HAPPY NYEKRIPSI.......! lagi :)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.25)  6 NOV 2019 19:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.25)  13 NOV 2019 14:14
 entering extended mode
 **./laporan.tex
 (laporan.tex
@@ -932,13 +932,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.23 \item U
-            ntuk dapat mengakses data dengan mudah diperlukan aplikasi bank ...
-[1
+l.24 \item M
+            empermudah nasabah/masyarakat dalam menabung sampah [1
 
 
 
-] [2]) [3]
+] [2])
+[3]
 \openout2 = `bab2.aux'.
 
  (bab2.tex
@@ -1000,15 +1000,12 @@ Package rerunfilecheck Info: File `laporan.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
- 14618 strings out of 492946
- 205410 string characters out of 3135530
- 306039 words of memory out of 3000000
+ 14620 strings out of 492946
+ 205424 string characters out of 3135530
+ 306040 words of memory out of 3000000
  18117 multiletter control sequences out of 15000+200000
  32179 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1016,9 +1013,9 @@ Here is how much of TeX's memory you used:
 {D:/MIktex/fonts/enc/dvips/base/8r.enc}<D:/MIktex/fonts/type1/urw/times/utmb8
 a.pfb><D:/MIktex/fonts/type1/urw/times/utmr8a.pfb><D:/MIktex/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on laporan.pdf (19 pages, 181036 bytes).
+Output written on laporan.pdf (19 pages, 181355 bytes).
 PDF statistics:
- 283 PDF objects out of 1000 (max. 8388607)
- 66 named destinations out of 1000 (max. 500000)
+ 286 PDF objects out of 1000 (max. 8388607)
+ 68 named destinations out of 1000 (max. 500000)
  246 words of extra memory for PDF output out of 10000 (max. 10000000)
 
